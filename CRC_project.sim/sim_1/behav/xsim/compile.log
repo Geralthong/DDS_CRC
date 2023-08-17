@@ -1,0 +1,25 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivadotest/CRC_8/CRC_8.srcs/sources_1/new/CRC_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CRC_8
+WARNING: [VRFC 10-2379] empty port in module declaration [E:/vivadotest/CRC_8/CRC_8.srcs/sources_1/new/CRC_8.v:6]
+WARNING: [VRFC 10-756] identifier count is used before its declaration [E:/vivadotest/CRC_8/CRC_8.srcs/sources_1/new/CRC_8.v:9]
+WARNING: [VRFC 10-756] identifier valid is used before its declaration [E:/vivadotest/CRC_8/CRC_8.srcs/sources_1/new/CRC_8.v:82]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/new/CRC_bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CRC_bit
+WARNING: [VRFC 10-1315] redeclaration of ansi port data_crc is not allowed [E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/new/CRC_bit.v:14]
+WARNING: [VRFC 10-1315] redeclaration of ansi port crc_true is not allowed [E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/new/CRC_bit.v:15]
+WARNING: [VRFC 10-1315] redeclaration of ansi port xor_out is not allowed [E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/new/CRC_bit.v:18]
+WARNING: [VRFC 10-1315] redeclaration of ansi port data_bit is not allowed [E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/new/CRC_bit.v:129]
+WARNING: [VRFC 10-1315] redeclaration of ansi port frequency is not allowed [E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/new/CRC_bit.v:160]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/new/DDS_15M.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DDS_15M
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/new/DDS_5M.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DDS_frequency_5M
+WARNING: [VRFC 10-1315] redeclaration of ansi port Codeclk_5M is not allowed [E:/vivadotest/CRC_project/CRC_project.srcs/sources_1/new/DDS_5M.v:29]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivadotest/CRC_project/CRC_project.srcs/sim_1/new/CRC_bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CRC_bit_tb
